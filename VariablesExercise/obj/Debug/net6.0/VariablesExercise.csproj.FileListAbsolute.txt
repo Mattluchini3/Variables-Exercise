@@ -1,0 +1,15 @@
+/Users/luch/Desktop/Repos/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.csproj.AssemblyReference.cache
+/Users/luch/Desktop/Repos/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luch/Desktop/Repos/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.AssemblyInfoInputs.cache
+/Users/luch/Desktop/Repos/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.AssemblyInfo.cs
+/Users/luch/Desktop/Repos/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.csproj.CoreCompileInputs.cache
+/Users/luch/Desktop/Repos/Variables-Exercise/VariablesExercise/bin/Debug/net6.0/VariablesExercise
+/Users/luch/Desktop/Repos/Variables-Exercise/VariablesExercise/bin/Debug/net6.0/VariablesExercise.deps.json
+/Users/luch/Desktop/Repos/Variables-Exercise/VariablesExercise/bin/Debug/net6.0/VariablesExercise.runtimeconfig.json
+/Users/luch/Desktop/Repos/Variables-Exercise/VariablesExercise/bin/Debug/net6.0/VariablesExercise.dll
+/Users/luch/Desktop/Repos/Variables-Exercise/VariablesExercise/bin/Debug/net6.0/VariablesExercise.pdb
+/Users/luch/Desktop/Repos/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.dll
+/Users/luch/Desktop/Repos/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/refint/VariablesExercise.dll
+/Users/luch/Desktop/Repos/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.pdb
+/Users/luch/Desktop/Repos/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.genruntimeconfig.cache
+/Users/luch/Desktop/Repos/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/ref/VariablesExercise.dll
